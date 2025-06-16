@@ -1,0 +1,1 @@
+![HeicToJpg](https://raw.githubusercontent.com/mlevent/heic-to-jpg/refs/heads/main/assets/animation.gif)
